@@ -1,0 +1,12 @@
+Before you run 
+
+make sur you launched index.js file : 
+"node backend/index.js"
+
+make sur database is up 
+"ip 3306"
+
+Launch node app with :
+"npx expo start"
+
+Make sure the database is not on localhost when running the app on android emulator or set up a proxy
